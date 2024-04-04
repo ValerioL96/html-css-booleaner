@@ -1,21 +1,12 @@
-.logo{
-    background-color: blue;
-    height:10em ;
-    background-image: url(file:///C:/Users/vlemb/OneDrive/Desktop/Boolean/html-css-booleaner/logo/logo.svg);
-    background-repeat: no-repeat;
-    background-size: 20em 10em;
+
+header{
+    background-color: #4ea0ff;
+    background-image: url(../img/pattern.png);
+    background-size: 30%;
+    height: 7rem;
 }
 
-.title{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 50px;
-    
-    text-align: start;
-}
-
-.sottotitolo{
-    background-size: 10em;
-}
-.font-blu{
-    color: rgb(16, 148, 236);
+#main-logo{
+    padding-top: 2.5rem;
+    height: 50%;
 }
