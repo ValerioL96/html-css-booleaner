@@ -10,3 +10,45 @@ header{
     padding-top: 2.5rem;
     height: 50%;
 }
+
+h1{
+    font-size: 3.4rem;
+
+}
+
+.font-grey{
+    color: #919191;
+}
+
+.font-blu{
+    color: #36b0e6;
+}
+
+.font-small{
+    font-size: 0.75rem;
+}
+
+mark{
+    background-color: yellow;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+
+.backg-blu{
+    background-color: #20a9e5;
+}
+
+.backg-light-blu{
+    background-color: #b1e5f2;
+}
+
+.font-white{
+    color: white;
+}
+
+.width-50{
+    width: 50%;
+}
